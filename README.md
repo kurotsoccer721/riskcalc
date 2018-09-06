@@ -1,4 +1,4 @@
-# Risk estimation for Self-Driving using Fuzzy logic & Genetic algorythm
+## Risk estimation for Self-Driving using Fuzzy logic & Genetic algorythm
 
 This repository is memorandum of my graduation research.<br>
 <br>
